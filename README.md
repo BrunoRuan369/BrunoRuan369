@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Python FullStack.
 - 🌱 I’m currently learning OpenCV.
-- 👯 I’m looking to collaborate on Conputer Vision
+- 👯 I’m looking to collaborate on Computer Vision
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
