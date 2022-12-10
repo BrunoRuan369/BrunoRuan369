@@ -2,11 +2,11 @@
 
 
 
+<img height="190" src="https://media-exp1.licdn.com/dms/image/D4D16AQFyIkBjh_IQTg/profile-displaybackgroundimage-shrink_350_1400/0/1669685217248?e=1675900800&v=beta&t=pzf4Kl2HWbAty62sqkJTnilDMpGXpEGKqJ03JL_S6aM"/>
+
 - 🔭 I’m currently working on Python FullStack.
 - 🌱 I’m currently learning OpenCV.
 - 👯 I’m looking to collaborate on Computer Vision
-
-
 
 <div align="center">
   <a href="https://github.com/BrunoRuan369">
