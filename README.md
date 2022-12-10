@@ -1,4 +1,4 @@
-### print("Hello Everyone")👍 I'm Bruno😊 Full Stack Python Developer, Passionate about automation and technology
+### Hello Everyone👍 I'm Bruno😊 Full Stack Python Developer, Passionate About Automation And Technology.
 
 
 
